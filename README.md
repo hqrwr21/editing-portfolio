@@ -26,12 +26,6 @@ Edit `js/site-config.js`. Three placeholders are there:
 
 Leave the brackets in place and the site prints the placeholder as text. Replace a value and it becomes a link: email uses `mailto:`, phone uses `tel:`, and LinkedIn should be a full `https://` URL.
 
-## Downloads
-
-The buttons point at the scrubbed resume and print portfolio:
-
-- `downloads/Harry-Pascual-Resume.pdf`
-- `downloads/Harry-Pascual-Portfolio.pdf`
 
 ## Deploy on Vercel
 
